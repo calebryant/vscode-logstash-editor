@@ -38,7 +38,7 @@
 					"logstash"
 				],
 				"filenamePatterns": [
-					"*parser.conf"
+					"parser.conf"
 				]
 			}
 		],
