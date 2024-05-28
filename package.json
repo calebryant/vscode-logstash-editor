@@ -38,10 +38,7 @@
 					"logstash"
 				],
 				"filenamePatterns": [
-					"*logstash.conf",
-					"*logstash.conf.j2",
-					"*logstash.conf.template",
-					"logstash-*.conf"
+					"*parser.conf"
 				]
 			}
 		],
